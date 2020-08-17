@@ -47,3 +47,5 @@ A lista Ã© bem extensa, esses foram apenas alguns exemplos.
 #7 ProgressÃ£o Promissora da Carreira: Enquanto a demanda continua a crescer para o talento de scripts em shell, ainda existe uma escassez de profissionais experientes no mercado. Existem oportunidades ilimitadas de progressÃ£o na carreira para pessoas desenvolvedoras e administradoras de sistemas qualificados.
 
 #8 Crescimento salarial: Pessoas capacitadas e que possuem a habilidade de trabalhar com Shell Script sÃ£o muito valorizadas no mercado, conseguem boas propostas de emprego e para elas nÃ£o faltam vagas.
+
+#9 Importante para otimizar o tempo com automatização de tarefas. Principalmente no acesso a um servidor remoto. E se familiarizar com o terminal.
