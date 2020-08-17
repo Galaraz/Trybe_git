@@ -49,3 +49,5 @@ A lista Ã© bem extensa, esses foram apenas alguns exemplos.
 #8 Crescimento salarial: Pessoas capacitadas e que possuem a habilidade de trabalhar com Shell Script sÃ£o muito valorizadas no mercado, conseguem boas propostas de emprego e para elas nÃ£o faltam vagas.
 
 #9 Importante para otimizar o tempo com automatização de tarefas. Principalmente no acesso a um servidor remoto. E se familiarizar com o terminal.
+
+#10 Além disso, você precisa entender os scripts de inicialização do servidor e assim evitar trabalho reptitivo 
